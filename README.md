@@ -1,4 +1,4 @@
-# GS Multi Tool
+# GhostStrats Multi Tool
 ## GhostStrats Multi Tool — The Evolution of GS USB Runner
 
 **Free Windows Desktop Cybersecurity, Privacy, Scripting, Intelligence, and Preparedness Tools**
